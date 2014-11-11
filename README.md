@@ -8,3 +8,4 @@
 * Run the ember server:
   * ember s
 * Open the ember app in your browser: http://localhost:4200/admin/
+* For instructions on how to build and merge the Ember project into the ASP.NET Web API project, please refer to this blog post: _____________
